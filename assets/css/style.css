@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(214, 214, 214);
+  font-weight: bold;
+}
+
+footer a:nth-child(2):hover {
+  color: #007bff;
+}
+
+footer a:nth-child(1):hover {
+  color: black;
+}
+footer a:link {
+  text-decoration: none;
+}
+
+footer a {
+  color: black;
+}
+
+#panier {
+  text-align: center;
+}
